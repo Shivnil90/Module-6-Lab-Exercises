@@ -1,0 +1,19 @@
+
+.App {
+  text-align: center;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.componentBox {
+  border: 1px solid #aaa;
+  margin: 15px auto;
+  padding: 15px;
+  max-width: 450px;
+  background: #efefef;
+  border-radius: 8px;
+}
+
+.Greeting h2 {
+  color: #2454d6;
+}

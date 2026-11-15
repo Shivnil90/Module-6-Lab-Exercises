@@ -1,0 +1,35 @@
+.app {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.app h1 {
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.emoji-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.emoji-container h2 {
+  font-size: 100px;
+  margin: 0;
+}
+
+.emoji-container button {
+  padding: 12px 25px;
+  font-size: 16px;
+  background-color: #4169e1;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.emoji-container button:hover {
+  background-color: #294bb5;
+}
